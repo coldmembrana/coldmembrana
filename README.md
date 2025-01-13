@@ -7,7 +7,7 @@
 </p>
 
 ### My programming languages
-I know Python very well
+I know Python very welln/
 Learn JS, C++/C#, HTML
 
 ### My favorite OS?
