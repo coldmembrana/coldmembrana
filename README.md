@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hello! I'm cryosilent! 👋</h1>
 
-<!--
-**cryosilent/cryosilent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img width="600" src="snake.svg" alt="snake"/>
+</p>
 
-Here are some ideas to get you started:
+### silent@archlinux:~$ cat /home/silent/my-github/telegram.md
+[![My Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/cryosilent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### silent@archlinux:~$ cat /home/silent/my-github/hwik.md
+I know Python very well
+Learn JS, C++/C#, HTML
+
+### Profile Viewers
+<img align="center" src="https://profile-counter.glitch.me/{cryosilent}/count.svg"/></p> 
