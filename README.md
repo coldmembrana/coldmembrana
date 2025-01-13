@@ -7,7 +7,7 @@
 ### silent@archlinux:~$ cat /home/silent/my-github/telegram.md
 [![My Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/cryosilent)
 
-### silent@archlinux:~$ cat /home/silent/my-github/hwik.md
+### My programming languages
 I know Python very well
 Learn JS, C++/C#, HTML
 
