@@ -7,8 +7,7 @@
 </p>
 
 ### My programming languages
-I know Python very welln/
-Learn JS, C++/C#, HTML
+I know Python very well | Learn JS, C++/C#, HTML
 
 ### My favorite OS?
 Arch Linux & Android
