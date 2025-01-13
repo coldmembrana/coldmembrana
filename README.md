@@ -10,5 +10,11 @@
 I know Python very well
 Learn JS, C++/C#, HTML
 
+### My favorite OS?
+Arch Linux & Android
+
+### My clan
+AnxietyLabs / Anxiety Squad - anxietylabs.github.io
+
 ### Profile Viewers
 <img align="center" src="https://profile-counter.glitch.me/{cryosilent}/count.svg"/></p> 
