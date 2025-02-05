@@ -1,4 +1,4 @@
-### silent@archlinux:~$ cat /home/silent/my-github/README.md
+### index@archlinux:~$ cat /home/index/README.md
 
 <h1 align="center">Hello! I'm IndexName! 👋</h1>
 
@@ -13,4 +13,4 @@ I know Python very well | Learn JS, C++/C#, HTML
 Arch Linux & Android
 
 ### Profile Viewers
-<img align="center" src="https://profile-counter.glitch.me/{cryosilent}/count.svg"/></p> 
+<img align="center" src="https://profile-counter.glitch.me/{indexname}/count.svg"/></p> 
