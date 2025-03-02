@@ -1,4 +1,4 @@
-### index@archlinux:~$ cat /home/index/README.md
+### coldmembrana@archlinux:~$ cat /home/coldmembrana/README.md
 
 <h1 align="center">Hello! I'm Membrana! 👋</h1>
 
